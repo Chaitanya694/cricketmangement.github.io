@@ -1,0 +1,26 @@
+.bio {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .bio td, .bio th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .bio tr:nth-child(even){background-color: #ebe5e5;}
+  
+  
+  
+  .bio th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #686a6a;
+    color: white;
+  }
+  h3{
+    text-align: center;
+    color:darkslategrey;
+  }
